@@ -3,7 +3,7 @@ package u;
 import java.util.Scanner;
 
 public class Practice3 {
-
+  // Creat Project by NeivoHuang 2020/12/07
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
