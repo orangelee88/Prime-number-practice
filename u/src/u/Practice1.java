@@ -11,7 +11,7 @@ public class Practice1 {
 		 *  3.輸出計算結果
 		 */
 		Scanner input = new Scanner(System.in);
-		System.out.println("請輸入數字0到100");
+		System.out.println("請輸入數字0到105");
 		int number = input.nextInt();
 		int a=0,i=0,sum=0;
 		a=number;
